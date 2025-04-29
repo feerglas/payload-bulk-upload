@@ -8,6 +8,7 @@
 
 /.idea/*
 !/.idea/runConfigurations
+mongo-db-data
 
 # testing
 /coverage
